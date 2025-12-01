@@ -1,0 +1,14 @@
+# Core data and visualization libraries
+pandas
+matplotlib
+seaborn
+
+# Advanced scientific libraries
+xarray
+netCDF4
+h5py
+scipy
+geopandas
+
+# For map plotting
+folium
